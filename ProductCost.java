@@ -31,7 +31,7 @@ class Product
 		return tc;
 	}
 }
-public class Main {
+public class ProductCost {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
