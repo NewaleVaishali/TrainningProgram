@@ -35,7 +35,7 @@ class C implements B,D{
 		System.out.println("I am in interface D");
 	}
 }
-public class A {
+public class Inheritance {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
